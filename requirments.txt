@@ -1,0 +1,4 @@
+Pillow==9.4.0
+prettytable==3.8.0
+colorama==0.4.6
+python-magic==0.4.27  # For the 'magic' module
