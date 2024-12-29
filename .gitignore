@@ -3,3 +3,7 @@
 
 # Ignore VS Code settings directory
 .vscode/
+
+# Ignore executable files
+*.exe
+output/
